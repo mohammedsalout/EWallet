@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EWallet</string>
+    <string name="save">Save</string>
+    <string name="select_label">Select label first !</string>
+
+
+    <string-array name="card_label">
+        <item>Select one</item>
+        <item>Food</item>
+        <item>Travel</item>
+        <item>Fun</item>
+    </string-array>
+</resources>
